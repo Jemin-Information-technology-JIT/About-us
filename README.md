@@ -21,9 +21,7 @@ JIT  focused  on   client  satisfaction by  improving  existing
 
 Technologies  and  Inventing  new  Technologies.
 
-Jemin Information Technology(JIT) is focused on Advanced Software Development, WebDesign,
-Developing utilities, WebPublishing ,Cloud computing , and Client Services. JIT provides information technology,
-software engineering , research , and Quality Analysis.
+
 
 
 
